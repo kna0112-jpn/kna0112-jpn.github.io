@@ -4,7 +4,7 @@
         "details": [
            {
                "appID":"87856UWXJG.com.D.S.ULT",
-               "paths":[ "test" ]
+               "paths":[ "*" ]
            }
          ]
     }
